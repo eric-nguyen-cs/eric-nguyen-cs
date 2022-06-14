@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me :
+
+I am a Software Engineer and a Master of Engineer Student from Paris, France.
+
+- I'm a Student in his Gap Year at CentraleSupélec, looking to major Computer Science and graduate in May 2024.
+- I'm a Software Engineer looking to solve real-life problems and impact the world
+- Always curious about advancements in all fields of engineering
