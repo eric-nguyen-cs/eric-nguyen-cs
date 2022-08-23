@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### About Me :
 
-I am a Software Engineer and a Master of Engineer Student from Paris, France.
-
-- I'm a Student in his Gap Year at CentraleSupélec, looking to major Computer Science and graduate in May 2024.
-- I'm a Software Engineer looking to solve real-life problems and impact the world
+I am a Software Engineer and a Master of Engineer Student (graudating May 2024) from Paris, France.
+- Currently in *Los Angeles*, at @hello-polygon, for a 6-month Software Engineer Internship
+- Looking for a 5/6-month SWE internship starting February 2023
+- Looking to solve real-life problems and impact the world
 - Always curious about advancements in all fields of engineering
