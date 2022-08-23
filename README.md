@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ### About Me :
 
 I am a Software Engineer and a Master of Engineer Student (graudating May 2024) from Paris, France.
-- Currently in *Los Angeles*, at @hello-polygon, for a 6-month Software Engineer Internship
+- Currently in *Los Angeles*, at [Polygon](hellopolygon.com), for a 6-month Software Engineer Internship
 - Looking for a 5/6-month SWE internship starting February 2023
 - Looking to solve real-life problems and impact the world
 - Always curious about advancements in all fields of engineering
+
