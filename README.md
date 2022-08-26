@@ -4,7 +4,7 @@
 
 - 🌴 Currently in **Los Angeles**, at [Polygon](hellopolygon.com), as a SWE intern
 - 🔍 **Looking for a 5/6-month SWE internship starting February 2023**
-- 🧐 Always curious about advancements in all fields of engineering
+- 🧐 Always curious about advancements in all fields of engineering (_from fusion energy and self-driving cars to BMIs, rockets and gene-editing!_)   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
