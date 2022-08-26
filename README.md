@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
-<h3 align="center">Software Engineer and a Master of Engineer Student (🎓 graduating May 2024) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Software Engineer and Master of Engineer Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
 
 - 🌴 Currently in **Los Angeles**, at [Polygon](hellopolygon.com), for a 6-month Software Engineer Internship
