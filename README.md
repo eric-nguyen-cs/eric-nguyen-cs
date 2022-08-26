@@ -1,19 +1,11 @@
-### Hi there 👋
-
-## About Me :
-
-I am a Software Engineer and a Master of Engineer Student (🎓 graduating May 2024) from Paris, France 🇫🇷.
-- 🌴 Currently in *Los Angeles*, at [Polygon](hellopolygon.com), for a 6-month Software Engineer Internship
-- 🔍 *Looking for a 5/6-month SWE internship starting February 2023*
-- 🧐 Always curious about advancements in all fields of engineering
-
-
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
 <h3 align="center">Software Engineer and a Master of Engineer Student (🎓 graduating May 2024) from Paris, France 🇫🇷.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eric-nguyen-cs" alt="eric-nguyen-cs" /></a> </p>
 
-- 🔭 I’m currently working on **##**
+- 🌴 Currently in *Los Angeles*, at [Polygon](hellopolygon.com), for a 6-month Software Engineer Internship
+- 🔍 *Looking for a 5/6-month SWE internship starting February 2023*
+- 🧐 Always curious about advancements in all fields of engineering
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
