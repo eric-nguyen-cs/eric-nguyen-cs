@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
 <h3 align="center">Software Engineer and Master of Engineer Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
-- 🌴 Currently in **Los Angeles**, at [Polygon](hellopolygon.com), as a SWE intern
+- 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a SWE intern
 - 🔍 **Looking for a 5/6-month SWE internship starting February 2023**
 - 🧐 Always curious about advancements in all fields of engineering (_from fusion energy and self-driving cars to BMIs, rockets and gene-editing!_)
 
