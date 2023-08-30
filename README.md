@@ -3,10 +3,9 @@
 ---
 
 <h1 align="center">Hi 👋, I'm Eric Nguyen</h1>
-<h3 align="center">Software Engineer and Master of Engineer Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
+<h3 align="center">Software Engineer and MSc. in Engineering Student (🎓 May 2024) from Paris, France 🇫🇷.</h3>
 
-- 🌴 Currently in **Los Angeles**, at [Polygon](https://hellopolygon.com), as a SWE intern
-- 🔍 **Looking for a 5/6-month SWE internship starting February 2023**
+- 👨‍💻 Former [Palantir](https://www.palantir.com) FDE Intern in London
 - 🧐 Always curious about advancements in all fields of engineering (_from fusion energy and self-driving cars to BMIs, rockets and gene-editing!_)
 
 <h3 align="left">Connect with me:</h3>
@@ -16,8 +15,6 @@
 </p>
 
 ---
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eric-nguyen-cs&show_icons=true&theme=dark&locale=en&hide_border=true&include_all_commits=false&count_private=false" alt="eric-nguyen-cs" />
 
 <h3 align="left">Languages and Tools:</h3>
 - Programming Languages:
